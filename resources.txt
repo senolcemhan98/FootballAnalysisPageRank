@@ -1,0 +1,18 @@
+StatsBomb
+
+https://github.com/senolcemhan98/FootballAnalysisPageRank
+https://statsbomb.com/what-we-do/hub/free-data/
+
+
+ * https://www.reddit.com/r/sportsanalytics/comments/1ho3onm/football_data_source/
+ - - https://www.football-data.co.uk/
+ - - https://www.americansocceranalysis.com/home/2022/2/9/introducing-itscalledsoccer
+
+https://figshare.com/collections/Soccer_match_event_dataset/4415000/2
+
+# Not event based
+https://github.com/JaseZiv/worldfootballR
+
+https://github.com/newsdata/SoccerDB
+
+https://www.soccer-net.org/data
