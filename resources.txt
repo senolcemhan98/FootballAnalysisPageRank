@@ -1,4 +1,7 @@
 https://kloppy.pysport.org/open-data/
+https://mplsoccer.readthedocs.io/en/latest/s
+
+https://github.com/statsbomb/open-data/blob/master/doc/StatsBomb%20Open%20Data%20Specification%20v1.1.pdf
 
 
 StatsBomb
@@ -17,5 +20,8 @@ https://figshare.com/collections/Soccer_match_event_dataset/4415000/2
 https://github.com/JaseZiv/worldfootballR
 
 https://github.com/newsdata/SoccerDB
-
 https://www.soccer-net.org/data
+
+# OTHER
+https://medium.com/@trym.sorum/a-guide-to-statsbomb-data-in-python-7fa0443cbc41
+https://medium.com/@aleks-kapich/passing-sonars-football-viz-in-python-full-walkthrough-b2f2e46720c1

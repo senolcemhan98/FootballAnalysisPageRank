@@ -1,3 +1,4 @@
 kloppy
 pandas
 mplsoccer
+statsbombpy 
