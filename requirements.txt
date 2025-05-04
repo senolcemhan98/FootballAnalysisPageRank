@@ -2,3 +2,7 @@ kloppy
 pandas
 mplsoccer
 statsbombpy 
+scikit-network
+networkx
+graphframes
+pyvis

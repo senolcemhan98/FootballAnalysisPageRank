@@ -22,6 +22,21 @@ https://github.com/JaseZiv/worldfootballR
 https://github.com/newsdata/SoccerDB
 https://www.soccer-net.org/data
 
+# Pagerank py
+https://github.com/eddwebster/football_analytics
+https://memgraph.github.io/networkx-guide/algorithms/centrality-algorithms/pagerank/
+
+
 # OTHER
 https://medium.com/@trym.sorum/a-guide-to-statsbomb-data-in-python-7fa0443cbc41
 https://medium.com/@aleks-kapich/passing-sonars-football-viz-in-python-full-walkthrough-b2f2e46720c1
+https://github.com/eddwebster/football_analytics
+https://github.com/davidabelman/football_pagerank
+https://github.com/Friends-of-Tracking-Data-FoTD/passing-networks-in-python
+https://socceraction.readthedocs.io/en/latest/documentation/intro.html
+https://karun.in/blog/expected-threat.html
+https://github.com/rodmoioliveira/football-graphs
+https://github.com/eddwebster/football_analytics
+
+Closeness Centrality
+https://www.youtube.com/watch?v=qP3hV17b5f0
