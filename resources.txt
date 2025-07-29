@@ -40,3 +40,6 @@ https://github.com/eddwebster/football_analytics
 
 Closeness Centrality
 https://www.youtube.com/watch?v=qP3hV17b5f0
+
+
+https://chatgpt.com/c/6817e861-fbec-800d-ab32-0200c4a5db23
